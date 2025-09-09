@@ -1,0 +1,6 @@
+Senior Backend Engineer
+Responsibilities:
+- Build RESTful APIs with Python
+- Design authentication & authorization
+- Optimize database performance
+- Experience with microservices and containerization

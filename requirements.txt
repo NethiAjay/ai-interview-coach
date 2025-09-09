@@ -1,0 +1,7 @@
+streamlit>=1.22.0
+openai>=1.0.0
+python-dotenv
+PyPDF2
+python-docx
+pandas
+regex

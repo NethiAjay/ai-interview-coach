@@ -1,0 +1,2 @@
+Ajay Nethi
+Software Engineer with experience building backend services using Python, Flask, PostgreSQL. Implemented authentication and payment integrations. Worked on performance tuning and monitoring.
